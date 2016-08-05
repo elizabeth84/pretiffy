@@ -1,0 +1,78 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	width: 100%;
+}
+header nav{
+	overflow: hidden;
+	padding-left: 400px;
+}
+header nav ul{
+	list-style: none;
+	color:black;
+}
+header nav ul li{
+	float:left;
+}
+header nav ul li a{
+	padding: 10px 20px;
+	display:block;
+	text-decoration:none;
+	margin:5px;
+}
+h1, h2{
+	color:white;
+	text-align: center;
+}
+h3{
+	text-align: center;
+	color:#8F03E3;
+	padding: 18px 0px;
+}
+.biografia{
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height:500px;
+}
+.profile{
+	background-image: url("../images/tile1.png");
+	background-repeat: repeat;
+	height: 350px;
+}
+footer{
+	background-image: url("../images/tile2.png");
+	background-repeat: repeat;
+	height: 350px;
+	clear:both;
+}
+.col12{
+	padding-bottom: 50px;
+}
+.col12 img{
+	width: 10%;
+	margin:auto;
+	padding-bottom: 12px;
+    padding-top: 66px;
+}
+.profile img{
+	margin-left: 80px;
+    margin-top: 5px;
+	width: 80%;
+}
+.cat{
+	border-radius:50%;
+	border: 2px solid#8F03E3;
+  	padding:4px;
+}
+.col4 img{
+	width:30%;
+}
+.center{
+	text-align:center;
+}
+.medio{
+	width:30%;
+}
