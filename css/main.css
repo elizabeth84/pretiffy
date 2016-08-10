@@ -7,7 +7,7 @@ header{
 }
 header nav{
 	overflow: hidden;
-	padding-left: 400px;
+	padding-left: 595px;
 }
 header nav ul{
 	list-style: none;
@@ -45,7 +45,7 @@ h3{
 footer{
 	background-image: url("../images/tile2.png");
 	background-repeat: repeat;
-	height: 350px;
+	height: 256px;
 	clear:both;
 }
 .col12{
@@ -70,9 +70,10 @@ footer{
 .col4 img{
 	width:30%;
 }
-.center{
-	text-align:center;
+.mr{
+	margin-right: 25px;
 }
-.medio{
-	width:30%;
+.centrar{
+	float: right;
+    margin-right: 377px;
 }
